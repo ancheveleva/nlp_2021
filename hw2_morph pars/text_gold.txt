@@ -1,0 +1,568 @@
+#1
+Посреди ромашковой поляны стоял задумчивый Ёжик, глядел перед собой серьёзными глазами и думал:
+Посреди	ADP
+ромашковой	ADJ
+поляны	NOUN
+стоял	VERB
+задумчивый	ADJ
+Ёжик	PROPN
+, 	PUNCT
+глядел	VERB
+перед	ADP
+собой	PRON
+серьёзными	ADJ
+глазами	NOUN
+и	CCONJ
+думал	VERB
+:	PUNCT
+
+#2
+«Сегодня у Зайца день рожденья.
+«	PUNCT
+Сегодня	ADV
+у	ADP
+Зайца	PROPN
+день	NOUN
+рожденья	NOUN
+.	PUNCT
+
+#3
+Если я ему подарю морковку, он её съест, и ничего не останется.
+Если	SCONJ
+я	PRON
+ему	PRON
+подарю	VERB
+морковку	NOUN
+,	PUNCT
+он	PRON
+её	PRON
+съест	VERB
+,	PUNCT
+и	CCONJ
+ничего	PRON
+не	PART
+останется	VERB
+.	PUNCT
+
+#4
+Если капусту — тоже… а что, если я ему подарю…»
+Если	SCONJ
+капусту	NOUN
+—	PUNCT
+тоже	ADV
+…	PUNCT
+а	CCONJ
+что	SCONJ
+,	PUNCT
+если	SCONJ
+я	PRON
+ему	PRON
+подарю	VERB
+…	PUNCT
+»	PUNCT
+
+#5
+И тут на поляне появился Медвежонок.
+И	CCONJ
+тут	ADV
+на	ADP
+поляне	NOUN
+появился	VERB
+Медвежонок	PROPN
+.	PUNCT
+
+#6
+— Тили-мили, тили-мили! — пел Медвежонок.
+—	PUNCT
+Тили-мили	INTJ
+,	PUNCT
+тили-мили	INTJ
+!	PUNCT
+—	PUNCT
+пел	VERB
+Медвежонок	PROPN
+.	PUNCT
+
+#7
+— Привет, Ёжик! — сказал он и встал на голову.
+—	PUNCT
+Привет	NOUN
+,	PUNCT
+Ёжик	PROPN
+!	PUNCT
+—	PUNCT
+сказал	VERB
+он	PRON
+и	CCONJ
+встал	VERB
+на	ADP
+голову	NOUN
+.	PUNCT
+
+#8
+— Привет! — сказал Ёжик.
+—	PUNCT
+Привет	NOUN
+!	PUNCT
+—	PUNCT
+сказал	VERB
+Ёжик	PROPN
+.	PUNCT
+
+#9
+— Слушай! — закричал Медвежонок. 
+—	PUNCT
+Слушай	VERB
+!	PUNCT
+—	PUNCT
+закричал	VERB
+Медвежонок	PROPN
+.	PUNCT
+
+#10
+— Я целую страну выдумал — волшебную, необыкновенную!
+—	PUNCT
+Я	PRON
+целую	ADJ
+страну	NOUN
+выдумал	VERB
+—	PUNCT
+волшебную	ADJ
+,	PUNCT
+необыкновенную	ADJ
+!	PUNCT
+
+#11
+Я её всю ночь выдумывал, еле-еле выговорил! Тили-мили-трямдия!
+Я	PRON
+её	PRON
+всю	DET
+ночь	NOUN
+выдумывал	VERB
+,	PUNCT
+еле-еле	PART
+выговорил	VERB
+!	PUNCT
+Тили-мили-трямдия	PROPN
+!	PUNCT
+
+#12
+—	PUNCT
+Как	ADV
+?..	PUNCT
+
+#13
+— Трямдия! Там все ходят на головах.
+—	PUNCT
+Трямдия	PROPN
+!	PUNCT
+Там	ADV
+все	PRON
+ходят	VERB
+на	ADP
+головах	NOUN
+.	PUNCT
+
+#14
+— А я ромашки собираю, — сказал Ёжик.
+—	PUNCT
+А	CCONJ
+я	PRON
+ромашки	NOUN
+собираю	VERB
+,	PUNCT
+—	PUNCT
+сказал	VERB
+Ёжик	PROPN
+.	PUNCT
+
+#15
+— Раз — ромашка, два — ромашка!..
+—	PUNCT
+Раз	NUM
+—	PUNCT
+ромашка	NOUN
+,	PUNCT
+два	NUM
+—	PUNCT
+ромашка	NOUN
+!..	PUNCT
+
+#16
+— Три — ромашка! — сорвал третью ромашку Медвежонок и запел: пять — ромашка, шесть — ромашка…
+—	PUNCT
+Три	NUM
+—	PUNCT
+ромашка	NOUN
+!	PUNCT
+—	PUNCT
+сорвал	VERB
+третью	ADJ
+ромашку	NOUN
+Медвежонок	PROPN
+и	CCONJ
+запел	VERB
+:	PUNCT
+пять	NUM
+—	PUNCT
+ромашка	NOUN
+,	PUNCT
+шесть	NUM
+—	PUNCT
+ромашка	NOUN
+…	PUNCT
+
+#17
+— Семь — ромашка, — подхватил Ёжик.
+—	PUNCT
+Семь	NUM
+—	PUNCT
+ромашка	NOUN
+,	PUNCT
+—	PUNCT
+подхватил	VERB
+Ёжик	PROPN
+.	PUNCT
+
+#18
+— Придумал! — Закричал он.
+—	PUNCT
+Придумал	VERB
+!	PUNCT
+—	PUNCT
+Закричал	VERB
+он	PRON
+.	PUNCT
+
+#18
+— Надо подарить Зайцу ромашки!
+—	PUNCT
+Надо	AUX
+подарить	VERB
+Зайцу	PROPN
+ромашки	NOUN
+!	PUNCT
+
+#19
+— Погоди! — сказал Медвежонок.
+—	PUNCT
+Погоди	VERB
+!	PUNCT
+—	PUNCT
+сказал	VERB
+Медвежонок	PROPN
+.	PUNCT
+
+#20
+— Четвертую надо сорвать.
+—	PUNCT
+Четвертую	ADJ
+надо	AUX
+сорвать	VERB
+.	PUNCT
+
+#21
+И потом «семь — ромашка» не пой.
+И	CCONJ
+потом	ADV
+«	PUNCT
+семь	NUM
+—	PUNCT
+ромашка	NOUN
+»	PUNCT
+не	PART
+пой	VERB
+.	PUNCT
+
+#22
+Пой: «Семь»! Понял?
+Пой	VERB
+:	PUNCT
+«	PUNCT
+Семь	NUM
+»	PUNCT
+!	PUNCT
+Понял	VERB
+?	PUNCT
+
+#23
+— Нет, сказал Ёжик.
+—	PUNCT
+Нет	PART
+,	PUNCT
+сказал	VERB
+Ёжик	PROPN
+.	PUNCT
+
+#24
+— Ну, ты поешь: «Семь — ромашка!»
+—	PUNCT
+Ну	PART
+,	PUNCT
+ты	PRON
+поешь	VERB
+:	PUNCT
+«	PUNCT
+Семь	NUM
+—	PUNCT
+ромашка	NOUN
+!	PUNCT
+»	PUNCT
+
+#25
+— Пою, — сказал Ёжик.
+—	PUNCT
+Пою	VERB
+,	PUNCT
+—	PUNCT
+сказал	VERB
+Ёжик	PROPN
+.	PUNCT
+
+#26
+— А у нас в Тили-мили-трямдии поют:
+—	PUNCT
+А	CCONJ
+у	ADP
+нас	PRON
+в	ADP
+Тили-мили-трямдии	PROPN
+поют	VERB
+:	PUNCT
+
+#27
+пять — ромашка, шесть — ромашка, семь…
+пять	NUM
+—	PUNCT
+ромашка	NOUN
+,	PUNCT
+шесть	NUM
+—	PUNCT
+ромашка	NOUN
+,	PUNCT
+семь	NUM
+…	PUNCT
+
+#28
+— А зачем? — спросил Ёжик.
+—	PUNCT
+А	CCONJ
+зачем	ADV
+?	PUNCT
+—	PUNCT
+спросил	VERB
+Ёжик	PROPN
+.	PUNCT
+
+#29
+— Фу-ты! — рассердился Медвежонок.
+—	PUNCT
+Фу-ты	INTJ
+!	PUNCT
+—	PUNCT
+рассердился	VERB
+Медвежонок	PROPN
+.	PUNCT
+
+#30
+— Ну, чтобы песня была! Повтори.
+—	PUNCT
+Ну	INTJ
+,	PUNCT
+чтобы	SCONJ
+песня	NOUN
+была	VERB
+!	PUNCT
+Повтори	VERB
+.	PUNCT
+
+#31
+— Фу-ты! Ну, чтобы песня была! Повтори, — сказал Ёжик.
+—	PUNCT
+Фу-ты	INTJ
+!	PUNCT
+Ну	INTJ
+,	PUNCT
+чтобы	SCONJ
+песня	NOUN
+была	VERB
+!	PUNCT
+Повтори	VERB
+,	PUNCT
+—	PUNCT
+сказал	VERB
+Ёжик	PROPN
+.	PUNCT
+
+#32
+— И, знаешь, давай эту песню подарим Зайцу…
+—	PUNCT
+И	CCONJ
+,	PUNCT
+знаешь	VERB
+,	PUNCT
+давай	AUX
+эту	DET
+песню	NOUN
+подарим	VERB
+Зайцу	PROPN
+…	PUNCT
+
+#33
+— Да погоди ты со своим Зайцем! — буркнул Медвежонок, сорвал одуванчик и…
+—	PUNCT
+Да	PART
+погоди	VERB
+ты	PRON
+со	ADP
+своим	DET
+Зайцем	PROPN
+!	PUNCT
+—	PUNCT
+буркнул	VERB
+Медвежонок	PROPN
+,	PUNCT
+сорвал	VERB
+одуванчик	NOUN
+и	CCONJ
+…	PUNCT
+
+#34
+и тут же оторвался от земли.
+и	CCONJ
+тут	ADV
+же	PART
+оторвался	VERB
+от	ADP
+земли	NOUN
+.	PUNCT
+
+#35
+И поплыл на одуванчике, как на воздушном шаре.
+И	CCONJ
+поплыл	VERB
+на	ADP
+одуванчике	NOUN
+,	PUNCT
+как	ADV
+на	ADP
+воздушном	ADJ
+шаре	NOUN
+.	PUNCT
+
+#36
+Ёжик растерянно поглядел на него, но Медвежонок протянул ему лапу, и Ёжик стал подниматься в небо вместе с Медвежонком.
+Ёжик	PROPN
+растерянно	ADV
+поглядел	VERB
+на	ADP
+него	PRON
+,	PUNCT
+но	CCONJ
+Медвежонок	PROPN
+протянул	VERB
+ему	PRON
+лапу	NOUN
+,	PUNCT
+и	CCONJ
+Ёжик	PROPN
+стал	AUX
+подниматься	VERB
+в	ADP
+небо	NOUN
+вместе	ADV
+с	ADP
+Медвежонком	PROPN
+.	PUNCT
+
+#37
+Они поднимались все выше, выше…
+Они	PRON
+поднимались	VERB
+все	PART
+выше	ADV
+,	PUNCT
+выше	ADV
+…	PUNCT
+
+#38
+Прям над ними плыло легкое облако.
+Прям	PART
+над	ADP
+ними	PRON
+плыло	VERB
+легкое	ADJ
+облако	NOUN
+.	PUNCT
+
+#39
+— Слушай, давай поедем в Тили-мили-трямдию! — предложил Медвежонок.
+—	PUNCT
+Слушай	VERB
+,	PUNCT
+давай	AUX
+поедем	VERB
+в	ADP
+Тили-мили-трямдию	PROPN
+!	PUNCT
+—	PUNCT
+предложил	VERB
+Медвежонок	PROPN
+.	PUNCT
+
+#40
+— Говорить по-ихнему мы умеем.
+—	PUNCT
+Говорить	VERB
+по-ихнему	ADV
+мы	PRON
+умеем	VERB
+.	PUNCT
+
+#41
+Смотри, какое хорошее слово: «Трям»!
+Смотри	VERB
+,	PUNCT
+какое	SCONJ
+хорошее	ADJ
+слово	NOUN
+:	PUNCT
+«	PUNCT
+Трям	INTJ
+»	PUNCT
+!	PUNCT
+
+#42
+— Трям? Очень хорошее слово, — сказал Ёжик.
+—	PUNCT
+Трям	INTJ
+?	PUNCT
+Очень	ADV
+хорошее	ADJ
+слово	NOUN
+,	PUNCT
+—	PUNCT
+сказал	VERB
+Ёжик	PROPN
+.	PUNCT
+
+#43
+— А что оно означает?
+—	PUNCT
+А	CCONJ
+что	PRON
+оно	PRON
+означает	VERB
+?	PUNCT
+
+#44
+— Трям — по-тили-мили-трямски значит «здравствуйте!»
+—	PUNCT
+Трям	INTJ
+—	PUNCT
+по-тили-мили-трямски	ADV
+значит	VERB
+«	PUNCT
+здравствуйте	VERB
+!	PUNCT
+»	PUNCT
